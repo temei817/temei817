@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://www.linkedin.com/in/teresa-mei-b90364215/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 <!--
 **temei817/temei817** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
