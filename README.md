@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-How To Reach Me:
+How To Reach Me: <br>
 <a href="https://www.linkedin.com/in/teresa-mei-b90364215/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 <a href="https://github.com/temei817">
