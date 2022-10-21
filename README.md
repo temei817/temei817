@@ -12,3 +12,6 @@ How To Reach Me: <br>
 <a href="https://github.com/temei817">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=temei817&layout=compact&theme=material-palenight" />
 </a><br>
+
+
+[![Teresa's GitHub stats](https://github-readme-stats.vercel.app/api?username=temei817)](https://github.com/temei817/github-readme-stats)
