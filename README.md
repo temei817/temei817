@@ -16,5 +16,5 @@ How To Reach Me: <br>
 
 https://github-readme-stats.vercel.app/api?username=temei817
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Teresa's GitHub stats](https://github-readme-stats.vercel.app/api?username=temei817)](https://github.com/temei817/github-readme-stats)
 
