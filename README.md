@@ -14,5 +14,16 @@ How To Reach Me: <br>
 </a><br>
 
 
+<a href="https://github.com/temei817">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=roxiomontes&theme=material-palenight" />
+</a><br>
+<a href="https://github.com/temei817">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=roxiomontes&show_icons=true&theme=material-palenight" />
+</a><br>
+<a href="https://github.com/temei817">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=roxiomontes&layout=compact&theme=material-palenight" />
+</a><br>
+
+
 
 [![Teresa's GitHub stats](https://github-readme-stats.vercel.app/api?username=temei817)](https://github.com/temei817/github-readme-stats)
