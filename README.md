@@ -12,11 +12,15 @@ How To Reach Me: <br>
 📆 2019 - Expected 2023\
 📍 **University of the San Francisco** - San Francisco, California
 
-<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
 
 ## Relevant Projects 
-- **Movies Database**\
-  
+
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+- **Movies Database**
+Built a relational database using over 10 million lines of real data
+Optimized queries and de-biased users
+Documentation:https://docs.google.com/document/d/1Tnu_slIjkyUAmSGKDY2iY8NxkYfaW_YnhDindA4hpoU/edit?usp=sharing 
+📆 SPRING 2022\
 </details>
 
 
