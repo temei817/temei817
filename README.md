@@ -12,7 +12,10 @@ How To Reach Me: <br>
 📆 2019 - Expected 2023\
 📍 **University of the San Francisco** - San Francisco, California
 
-  
+<img align="right" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+
+## Relevant Projects 
+- **Movies Database**\
   
 </details>
 
