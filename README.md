@@ -24,21 +24,5 @@ Documentation:https://docs.google.com/document/d/1Tnu_slIjkyUAmSGKDY2iY8NxkYfaW_
 </details>
 
 
-<br>
-![Teresa's GitHub stats](https://github-readme-stats.vercel.app/api?username=temei817&show_icons=true&theme=transparent)
-<a href="https://github.com/temei817">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=temei817&theme=material-palenight" />
-</a><br>
-<a href="https://github.com/temei817">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=temei817&show_icons=true&theme=material-palenight" />
-</a><br>
-<a href="https://github.com/temei817">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=temei817&layout=compact&theme=material-palenight" />
-</a><br>
-
-
-
-[![Teresa's GitHub stats](https://github-readme-stats.vercel.app/api?username=temei817)](https://github.com/temei817/github-readme-stats)
-
 
 https://www.linkedin.com/in/teresa-mei-b90364215/
