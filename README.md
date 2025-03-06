@@ -10,7 +10,7 @@ How To Reach Me: <br>
 ## Education
 - 📖 **Computer Science Major, Entrepreneurship and Innovation Minor**\
 📆 2019 - 2023\
-📍 **University of the San Francisco** - San Francisco, California
+📍 **University of the San Francisco** - San Francisco, California\
 🎓 Summa Cum Laude 
 
 ## Experience
@@ -51,6 +51,7 @@ How To Reach Me: <br>
 • Incorporated third-party Java libraries to stem words
 • Took part in code reviews and implemented feedback in order to focus on code quality
 
+</details>
 
 
 
