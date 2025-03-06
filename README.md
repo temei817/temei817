@@ -48,14 +48,20 @@ How To Reach Me: <br>
 
 - 📖 **Ryukyu Two**\
 📆 FALL 2022\
-• Ported the original Ryukyu arcade game to the web to make it more accessible to a global audience
-• Implemented a timer and cancel/undo feature for the game using P5
+• Ported the original Ryukyu arcade game to the web to make it more accessible to a global audience\
+• Implemented a timer and cancel/undo feature for the game using P5\
 • Coordinated communication between sponsor and team members
+
+- 📖 **Movies Databse**\
+📆 SPRING 2022\
+•	Built a relational database using over 10 million lines of real data\
+•	Optimized queries and de-biased users
+
 
 - 📖 **Web Crawler**\
 📆 SPRING 2021\
-• Implemented a multithreaded web crawler in Java
-• Incorporated third-party Java libraries to stem words
+• Implemented a multithreaded web crawler in Java\
+• Incorporated third-party Java libraries to stem words\
 • Took part in code reviews and implemented feedback in order to focus on code quality
 
 </details>
