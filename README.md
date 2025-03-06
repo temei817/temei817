@@ -17,5 +17,42 @@ How To Reach Me: <br>
 - 📖 **DubPrime(TechStars '24) - Intern**\
 📆 AUG 2024 - OCT 2024\
 • Collaborated with stakeholders to ensure the technology aligns with company values\
-• Researched and developed strategies for integrating explainable and inclusive AI 
+• Researched and developed strategies for integrating explainable and inclusive AI
+
+- 📖 **USF - Programming Language Paradigms Teaching Assistant**\
+📆 JAN 2022 - MAY 2022\
+• Analyzed course material to create a teaching plan for office hours\
+• Held office hours to answer students’ questions & provided guidance on course material\
+• Reviewed/graded weekly assignments & provided constructive feedback in a timely manner
+
+- 📖 **Kinokuniya Bookstore/Maido Stationery**\
+📆 JUL 2021 - CURRENT\
+• Developed and grew brand identity by curating products and building & nurturing relationships\
+• Designed and created spreadsheets to visualize and understand sales performance\
+• Held successful pop-up events that also generated new wholesale partnerships\
+• My product guidance contributed 30-35% of annual sales revenue
+
+## Relevant Projects
+- 📖 **Single-Cycle Processor**\
+📆 SPRING 2023\
+• Implemented a single-cycle processor for a subset of the RISC-V instruction set architecture in Digital\
+• Built a control unit that decodes machine code instructions and generates control signals\
+• Developed spreadsheet-based methodology to associate instruction word input and control outputs\
+
+- 📖 **Ryukyu Two**\
+📆 FALL 2022\
+• Ported the original Ryukyu arcade game to the web to make it more accessible to a global audience
+• Implemented a timer and cancel/undo feature for the game using P5
+• Coordinated communication between sponsor and team members
+
+- 📖 **Web Crawler**\
+📆 SPRING 2021\
+• Implemented a multithreaded web crawler in Java
+• Incorporated third-party Java libraries to stem words
+• Took part in code reviews and implemented feedback in order to focus on code quality
+
+
+
+
+
 
