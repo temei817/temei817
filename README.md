@@ -12,6 +12,4 @@ How To Reach Me: <br>
 📆 2019 - 2023\
 📍 **University of the San Francisco** - San Francisco, California
 
-
-
-https://www.linkedin.com/in/teresa-mei-b90364215/
+## Experience
