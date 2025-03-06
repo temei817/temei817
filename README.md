@@ -11,5 +11,11 @@ How To Reach Me: <br>
 - 📖 **Computer Science Major, Entrepreneurship and Innovation Minor**\
 📆 2019 - 2023\
 📍 **University of the San Francisco** - San Francisco, California
+🎓 Summa Cum Laude 
 
 ## Experience
+- 📖 **DubPrime(TechStars '24) - Intern**\
+📆 AUG 2024 - OCT 2024\
+• Collaborated with stakeholders to ensure the technology aligns with company values
+• Researched and developed strategies for integrating explainable and inclusive AI 
+
