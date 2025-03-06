@@ -37,7 +37,7 @@ How To Reach Me: <br>
 • Created a horror puzzle game in 4 weeks with my two teammates using Java\
 • Established timelines and set up targets for each individual and the team\
 • Showcased game on Demo Day and Mission Bit Gala 2018\
-• [(bit.ly/TheSilentPlagueTrailer)]
+• bit.ly/TheSilentPlagueTrailer
 
 ## Relevant Projects
 - 📖 **Single-Cycle Processor**\
