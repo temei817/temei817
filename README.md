@@ -25,12 +25,19 @@ How To Reach Me: <br>
 • Held office hours to answer students’ questions & provided guidance on course material\
 • Reviewed/graded weekly assignments & provided constructive feedback in a timely manner
 
-- 📖 **Kinokuniya Bookstore/Maido Stationery**\
+- 📖 **Kinokuniya Bookstore/Maido Stationery - Expert Buyer/Product Manager**\
 📆 JUL 2021 - CURRENT\
 • Developed and grew brand identity by curating products and building & nurturing relationships\
 • Designed and created spreadsheets to visualize and understand sales performance\
 • Held successful pop-up events that also generated new wholesale partnerships\
 • My product guidance contributed 30-35% of annual sales revenue
+
+- 📖 **Mission Bit Program - Team Leader, Project Manager**\
+📆 SUMMER 2018\
+• Created a horror puzzle game in 4 weeks with my two teammates using Java\
+• Established timelines and set up targets for each individual and the team\
+• Showcased game on Demo Day and Mission Bit Gala 2018\
+• bit.ly/TheSilentPlagueTrailer
 
 ## Relevant Projects
 - 📖 **Single-Cycle Processor**\
