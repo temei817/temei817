@@ -16,6 +16,6 @@ How To Reach Me: <br>
 ## Experience
 - 📖 **DubPrime(TechStars '24) - Intern**\
 📆 AUG 2024 - OCT 2024\
-• Collaborated with stakeholders to ensure the technology aligns with company values
+• Collaborated with stakeholders to ensure the technology aligns with company values\
 • Researched and developed strategies for integrating explainable and inclusive AI 
 
